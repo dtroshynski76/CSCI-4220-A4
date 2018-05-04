@@ -5,6 +5,7 @@ These are my answers for the SML assignment - assignment 4 - for Dr. Winter's CS
  class at the University of Nebraska at Omaha. I received a 73/100 for this assignment.
  
  **These answers are will NOT get you a 100 on the assignment!**
+ 
 Here are the scores I received for these answers:
 1. 4/5
 2. 0/5
